@@ -107,6 +107,28 @@ Future updates to this project may include:
 * Data management projects
 * Additional security scenarios
 
+## Project Screenshots
+
+### Role Hierarchy
+![Salesforce Role Hierarchy](screenshots/role-hierarchy.png)
+
+### Organization-Wide Defaults
+![Salesforce Organization-Wide Defaults](screenshots/organization-wide-defaults.png)
+
+### Permission Set Group
+![Sales Processing Permission Set Group](screenshots/permission-set-group.png)
+
+### Opportunity Sharing Rule
+![Opportunity Sharing Rule](screenshots/opportunity-sharing-rule.png)
+
+### Case Sharing Rule
+![High Risk Case Sharing Rule](screenshots/case-sharing-rule.png)
+
+### Account Teams
+![Salesforce Account Teams](screenshots/account-teams.png)
+
+### Manual Sharing
+![Salesforce Manual Sharing](screenshots/manual-sharing.png)
 ## Author
 
 Danielle Walker
