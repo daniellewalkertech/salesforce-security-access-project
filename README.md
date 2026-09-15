@@ -68,7 +68,7 @@ Sharing rules were used to extend record access beyond the organization's defaul
 Examples included:
 
 * Won Opportunities shared with Accounts Receivable
-* High-risk audit Cases shared with the appropriate compliance team
+* Cases where `High Risk Compliance = True` are shared with the High-Risk Compliance Team with Read/Write access.
 
 ### Manual Sharing
 
